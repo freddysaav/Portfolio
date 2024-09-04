@@ -1,7 +1,7 @@
 # Portfolio Website
 
 <p align="center">
-  <img src="/media/portfolio1.gif")
+  <img src="/media/porta.png")
 </p>
 
 ## How to Use 
