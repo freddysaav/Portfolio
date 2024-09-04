@@ -41,13 +41,6 @@ function Projects(props) {
                 {projectsHeader["description"]}
               </p>
               <br />
-              {/* <a
-                {...styles}
-                className="general-btn"
-                href="https://public.tableau.com/app/profile/david.camilo.mu.oz.garcia"
-              >
-                Visualizations (TableaU)   
-              </a> */}
             </div>
           </div>
         </Fade>

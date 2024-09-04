@@ -2,12 +2,12 @@
 
 const lightTheme = {
   name: "light",
-  body: "#FFFFFF",
-  text: "#343434",
-  dark: "#000000",
-  secondaryText: "#7F8DAA",
-  accentColor: "#E3405F",
-  accentBright: "#FC1056",
+  body: "#FFFFEF",
+  text: "#7daa62",
+  dark: "#00072D",
+  secondaryText: "#3f3d56",
+  accentColor: "#7daa62",
+  accentBright: "#7daa62",
   projectCard: "#DCE4F2",
   skinColor: "#F7B799",
   skinColor2: "#FCB696",
@@ -17,21 +17,19 @@ const lightTheme = {
   avatarShoes: "#ccd2e3",
 };
 
-const darkTheme = {
-  name: "dark",
-  body: "#1D1D1D",
-  text: "#FFFFFF",
-  dark: "#000000",
-  secondaryText: "#8D8D8D",
-  accentColor: "#E3405F",
-  accentBright: "#FC1056",
-  projectCard: "#292A2D",
-  skinColor: "#F7B799",
-  skinColor2: "#FCB696",
-  imageDark: "#292A2D",
-  imageClothes: "#000000",
-  avatarMisc: "#212121",
-  avatarShoes: "#2B2B2B",
-};
+// export const greenTheme = {
+//   body: "#FFFFEB",
+//   text: "#003F2F",
+//   expTxtColor: "#000a12",
+//   highlight: "#dddf00",
+//   dark: "#00072D",
+//   secondaryText: "#4CA58F",
+//   imageHighlight: "#55a630",
+//   compImgHighlight: "#E6E6E6",
+//   jacketColor: "#007f5f",
+//   headerColor: "#55a63077",
+//   splashBg: "#003F2F",
+// };
 
-export const themes = { light: lightTheme, dark: darkTheme };
+
+export const themes = { light: lightTheme};
