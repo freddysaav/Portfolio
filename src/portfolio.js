@@ -16,7 +16,7 @@ const greeting = {
   subTitle:
     "Data Scientist, Back-end Developer, and Life Long Learner.",
   resumeLink:
-    "https://drive.google.com/file/d/1LI1rHZuGaITl3qqXNCg6mWDfLzLHu1Qo/view?usp=sharing",
+    "https://drive.google.com/file/d/1vjPmwz2bEhk5t5qUNUkVKvmMmcJJxAcv/view?usp=drive_link",
   mail: "mailto:im.freddysaavedra98@gmail.com",
 };
 
